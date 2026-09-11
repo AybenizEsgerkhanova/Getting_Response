@@ -20,7 +20,7 @@ This project demonstrates how to interact with Large Language Models (LLMs) by s
 Install the necessary Python libraries using `pip`:
 
 
-2. Environment Setup
+### 2. Environment Setup
 Create a .env file in the root directory of your project and add your OpenRouter API key:
 
 Kod hissəsi
